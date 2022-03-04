@@ -3,6 +3,9 @@
 const path = require('path')
 const AutoLoad = require('fastify-autoload')
 
+console.log("MONGODB_ENDPOINT:", process.env.MONGODB_ENDPOINT);
+console.log("COLLECTION_NAME:", process.env.COLLECTION_NAME);
+
 module.exports = async function (fastify, opts) {
   // Place here your custom code!
 
