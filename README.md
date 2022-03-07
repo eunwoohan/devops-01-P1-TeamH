@@ -1,6 +1,6 @@
 # Getting Started with Fastify-CLI [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 This project was bootstrapped with Fastify-CLI.
-
+123123123
 ## Available Scripts
 
 In the project directory, you can run:
